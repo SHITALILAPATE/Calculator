@@ -31,7 +31,7 @@ To run the calculator app locally:
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request......
 
 
 https://github.com/SHITALILAPATE/Calculator/assets/130491601/1f80789f-f8bb-404f-ac93-c330f54082e3
